@@ -1,6 +1,6 @@
 package com.example.tasksapi.Controller;
 
-import com.example.tasksapi.Module.Task;
+import com.example.tasksapi.Model.Task;
 import com.example.tasksapi.Repository.TasksRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

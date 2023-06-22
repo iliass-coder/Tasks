@@ -1,4 +1,4 @@
-package com.example.tasksapi.Module;
+package com.example.tasksapi.Model;
 
 import com.example.tasksapi.Helper.Status;
 import jakarta.persistence.*;
