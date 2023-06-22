@@ -1,2 +1,7 @@
-package com.example.tasksapi.Helper;public enum Status {
+package com.example.tasksapi.Helper;
+
+public enum Status {
+    todo,
+    inProgress,
+    Completed
 }
